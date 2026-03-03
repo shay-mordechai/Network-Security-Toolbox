@@ -1,7 +1,3 @@
-Your README looks well-structured and informative. It provides clear instructions and a concise explanation of how the script works and achieves its objective. Here’s the refined version with a few minor adjustments for clarity and consistency:
-
----
-
 # SYN Flood Attack Detection Exercise
 
 ## Objective
@@ -98,5 +94,6 @@ The output will include lists of missing and additional IP addresses, and a file
 For further assistance or questions, please contact [Your Contact Information].
 
 ---
+
 
 Feel free to modify or expand this README based on any additional information or requirements for your exercise!
