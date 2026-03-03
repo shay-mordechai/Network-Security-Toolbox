@@ -90,10 +90,3 @@ The output will include lists of missing and additional IP addresses, and a file
   pip install scapy
   ```
 - Adjust the `syn_threshold`, `time_window`, and other parameters in the script as needed to fit your network environment and attack patterns.
-
-For further assistance or questions, please contact [Your Contact Information].
-
----
-
-
-Feel free to modify or expand this README based on any additional information or requirements for your exercise!
